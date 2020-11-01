@@ -1,2 +1,4 @@
 Hello, Git
 Oh noes!
+
+Changes for rebase example
