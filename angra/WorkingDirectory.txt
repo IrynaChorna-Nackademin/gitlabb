@@ -7,3 +7,4 @@ Changes for rebase example
 These is my example for rebase
 
 
+Changes efter secret commit
